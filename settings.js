@@ -12,35 +12,35 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: GlobalTechInfo" //ur yt chanel name
-global.socialm = "GitHub: GlobalTechInfo" //ur github or insta name
+global.ytname = "YT: Awmtea Polythene" //ur yt chanel name
+global.socialm = "GitHub: Awmteacck" //ur github or insta name
 global.location = "Pakistan, Punjab, Lahore" //ur location
 
 //new
-global.botname = 'GLOBAL-MD' //ur bot name
-global.ownernumber = ['923444844060'] //ur owner number, dont add more than one
-global.ownername = 'GlobalTechInfo' //ur owner name
+global.botname = 'Flex' //ur bot name
+global.ownernumber = ['918787651195'] //ur owner number, dont add more than one
+global.ownername = 'Awmtea Polythene' //ur owner name
 global.websitex = "https://youtu.be/WpfdClSeQyg"
-global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
+global.wagc = "https://whatsapp.com/channel/0029Vakp5lvI7BeHPAtVmx2a"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/GlobalTechInfo/GLOBAL-MD' //script link
+global.wm = "Flex."
+global.botscript = 'https://github.com/Awmteacck/GLOBAL-MD' //script link
 global.packname = "Sticker By"
-global.author = "GlobalTechInfo\n\n+923444844060"
-global.creator = "923444844060@s.whatsapp.net"
+global.author = "Awmtea\n\n+918787651195"
+global.creator = "918787651195@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["923444844060"] // Premium User
+global.premium = ["918787651195"] // Premium User
 
 //channel id
 global.xchannel = {
-	jid: '120363319098372999@newsletter'
+	jid: '120363322386211344@newsletter'
 	}
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
-global.autoblocknumber = '91' //set autoblock country code
-global.antiforeignnumber = '94' //set anti foreign number country code
+global.autoblocknumber = '92,62,212' //set autoblock country code
+global.antiforeignnumber = '1' //set anti foreign number country code
 
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
